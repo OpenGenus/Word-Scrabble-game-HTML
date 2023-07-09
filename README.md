@@ -10,4 +10,4 @@ Word Scrabble game in HTML, CSS and JS
 * If the player runs out of guesses, they lose the game.
 
 
-![Rules](https://github.com/Dharmik3/Word-Scrabble-game-HTML/blob/main/rules.png)
+![Rules](https://github.com/OpenGenus/Word-Scrabble-game-HTML/blob/main/rules.png)
